@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ameerak7
 - 👀 I’m interested in ethereum and stocks
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ethereum smart contracts
+- 💞️ I’m looking to collaborate on decentralized stock transfer
 - 📫 How to reach me khanam@students.mtsd.k12.wi.us
 
 <!---
